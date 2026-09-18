@@ -104,13 +104,6 @@ pytest
 
 from the project root.
 
-## Screenshots / Results
-
-_Add screenshots of the running application here after testing with your own sample images. This section intentionally left as a placeholder — no fabricated results are included._
-
-| Original | Processed/Edges | Detected Crossing |
-|----------|------------------|--------------------|
-| (add screenshot) | (add screenshot) | (add screenshot) |
 
 ## Limitations
 
